@@ -28,6 +28,12 @@ export default {
       description: 'This can be used to schedule post for publishing'
     },
     {
+      name: 'city',
+      type: 'string',
+      title: 'city',
+      description: 'city'
+    },
+    {
       name: 'mainImage',
       type: 'mainImage',
       title: 'Main image'
